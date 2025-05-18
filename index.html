@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeCity Items Gallery</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+        .category-section {
+            margin-bottom: 40px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .category-title {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+        .item-card {
+            margin-bottom: 20px;
+            transition: transform 0.2s;
+            padding: 10px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+        }
+        .item-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .item-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        .item-info {
+            margin-top: 10px;
+        }
+        .item-name {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        .item-label {
+            color: #666;
+            font-size: 0.9em;
+        }
+        .navbar {
+            margin-bottom: 30px;
+            background-color: #2c3e50;
+        }
+        .navbar-brand {
+            color: white !important;
+            font-weight: bold;
+        }
+        .nav-link {
+            color: rgba(255,255,255,0.8) !important;
+        }
+        .nav-link:hover {
+            color: white !important;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="#">FreeCity Items Gallery</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#ao-nam">Áo Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#ao-nu">Áo Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#quan-nam">Quần Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#quan-nu">Quần Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#giay-nam">Giày Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#giay-nu">Giày Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#mu-nam">Mũ Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#mu-nu">Mũ Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#kinh-nam">Kính Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#bag">Bag</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div id="ao-nam" class="category-section">
+            <h2 class="category-title">Áo Nam</h2>
+            <div class="row" id="ao-nam-items"></div>
+        </div>
+
+        <div id="ao-nu" class="category-section">
+            <h2 class="category-title">Áo Nữ</h2>
+            <div class="row" id="ao-nu-items"></div>
+        </div>
+
+        <div id="quan-nam" class="category-section">
+            <h2 class="category-title">Quần Nam</h2>
+            <div class="row" id="quan-nam-items"></div>
+        </div>
+
+        <div id="quan-nu" class="category-section">
+            <h2 class="category-title">Quần Nữ</h2>
+            <div class="row" id="quan-nu-items"></div>
+        </div>
+
+        <div id="giay-nam" class="category-section">
+            <h2 class="category-title">Giày Nam</h2>
+            <div class="row" id="giay-nam-items"></div>
+        </div>
+
+        <div id="giay-nu" class="category-section">
+            <h2 class="category-title">Giày Nữ</h2>
+            <div class="row" id="giay-nu-items"></div>
+        </div>
+
+        <div id="mu-nam" class="category-section">
+            <h2 class="category-title">Mũ Nam</h2>
+            <div class="row" id="mu-nam-items"></div>
+        </div>
+
+        <div id="mu-nu" class="category-section">
+            <h2 class="category-title">Mũ Nữ</h2>
+            <div class="row" id="mu-nu-items"></div>
+        </div>
+
+        <div id="kinh-nam" class="category-section">
+            <h2 class="category-title">Kính Nam</h2>
+            <div class="row" id="kinh-nam-items"></div>
+        </div>
+
+        <div id="bag" class="category-section">
+            <h2 class="category-title">Bag</h2>
+            <div class="row" id="bag-items"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Wait for items.js to load
+        function loadItems() {
+            return new Promise((resolve, reject) => {
+                const script = document.createElement('script');
+                script.src = 'items.js';
+                script.onload = resolve;
+                script.onerror = () => reject(new Error('Failed to load items.js'));
+                document.body.appendChild(script);
+            });
+        }
+
+        function createItemCard(item) {
+            const col = document.createElement('div');
+            col.className = 'col-md-3 col-sm-6';
+            
+            const card = document.createElement('div');
+            card.className = 'item-card';
+            
+            const img = document.createElement('img');
+            img.className = 'item-image';
+            
+            // Convert item name to match image file format
+            // For example: jacket_m_11_1 -> jacket_m_11_1.png
+            const imageName = `${item.item}.png`;
+            img.src = `images/${imageName}`;
+            img.alt = item.label;
+            
+            // Add error handling for missing images
+            img.onerror = function() {
+                console.warn(`Image not found: ${imageName}`);
+                this.src = 'assets/ui/siyahadam.png';
+                this.onerror = null; // Prevent infinite loop if fallback image also fails
+            };
+            
+            const info = document.createElement('div');
+            info.className = 'item-info';
+            
+            const name = document.createElement('div');
+            name.className = 'item-name';
+            name.textContent = item.item;
+            
+            const label = document.createElement('div');
+            label.className = 'item-label';
+            label.textContent = item.label;
+            
+            info.appendChild(name);
+            info.appendChild(label);
+            
+            card.appendChild(img);
+            card.appendChild(info);
+            col.appendChild(card);
+            
+            return col;
+        }
+
+        function displayItems() {
+            if (typeof items === 'undefined') {
+                console.error('Items data not loaded');
+                return;
+            }
+            
+            items.forEach(item => {
+                const container = document.getElementById(`${item.category}-items`);
+                if (container) {
+                    container.appendChild(createItemCard(item));
+                }
+            });
+        }
+
+        // Initialize the display when the page loads
+        window.onload = async function() {
+            try {
+                await loadItems();
+                displayItems();
+            } catch (error) {
+                console.error('Error loading items:', error);
+                document.body.innerHTML += '<div class="alert alert-danger m-3">Failed to load items data. Please make sure items.js exists and is accessible.</div>';
+            }
+        };
+    </script>
+</body>
+</html> 
