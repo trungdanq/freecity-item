@@ -27,8 +27,9 @@
             margin-bottom: 20px;
             transition: transform 0.2s;
             padding: 10px;
-            border: 1px solid #eee;
+            border: 2px solid #eee;
             border-radius: 8px;
+            position: relative;
         }
         .item-card:hover {
             transform: translateY(-5px);
@@ -36,7 +37,7 @@
         }
         .item-image {
             width: 100%;
-            height: 200px;
+            height: 100px;
             object-fit: cover;
             border-radius: 8px;
         }
@@ -65,6 +66,56 @@
         }
         .nav-link:hover {
             color: white !important;
+        }
+        /* Grade-specific border colors */
+        .item-card.common {
+            border-color: #808080;
+        }
+        .item-card.uncommon {
+            border-color: #1eff00;
+        }
+        .item-card.rare {
+            border-color: #0070dd;
+        }
+        .item-card.epic {
+            border-color: #a335ee;
+        }
+        .item-card.legendary {
+            border-color: #ff8000;
+        }
+        .item-card.mythical {
+            border-color: #e6cc80;
+        }
+        .item-grade {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            font-weight: bold;
+            text-transform: capitalize;
+            color: white;
+        }
+        .item-grade.common {
+            background-color: #808080;
+        }
+        .item-grade.uncommon {
+            background-color: #1eff00;
+            color: #000;
+        }
+        .item-grade.rare {
+            background-color: #0070dd;
+        }
+        .item-grade.epic {
+            background-color: #a335ee;
+        }
+        .item-grade.legendary {
+            background-color: #ff8000;
+        }
+        .item-grade.mythical {
+            background-color: #e6cc80;
+            color: #000;
         }
     </style>
 </head>
@@ -182,13 +233,12 @@
             col.className = 'col-md-2 col-sm-2';
             
             const card = document.createElement('div');
-            card.className = 'item-card';
+            card.className = `item-card ${item.itemType || 'common'}`;
             
             const img = document.createElement('img');
             img.className = 'item-image';
             
             // Convert item name to match image file format
-            // For example: jacket_m_11_1 -> jacket_m_11_1.png
             const imageName = `${item.item}.png`;
             img.src = `images/${imageName}`;
             img.alt = item.label;
@@ -197,7 +247,7 @@
             img.onerror = function() {
                 console.warn(`Image not found: ${imageName}`);
                 this.src = 'assets/ui/siyahadam.png';
-                this.onerror = null; // Prevent infinite loop if fallback image also fails
+                this.onerror = null;
             };
             
             const info = document.createElement('div');
@@ -210,11 +260,17 @@
             const label = document.createElement('div');
             label.className = 'item-label';
             label.textContent = item.label;
+
+            // Add grade display
+            const grade = document.createElement('div');
+            grade.className = `item-grade ${item.itemType || 'common'}`;
+            grade.textContent = item.itemType || 'common';
             
             info.appendChild(name);
             info.appendChild(label);
             
             card.appendChild(img);
+            card.appendChild(grade);
             card.appendChild(info);
             col.appendChild(card);
             

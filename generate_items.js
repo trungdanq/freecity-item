@@ -5,12 +5,13 @@ const configContent = fs.readFileSync('sh_config.lua', 'utf8');
 
 // Extract items from the config
 const items = [];
-const itemRegex = /{item = "([^"]+)", label = "([^"]+)",/g;
+const itemRegex = /{item = "([^"]+)", label = "([^"]+)", itemType = "([^"]+)"/g;
 let match;
 
 while ((match = itemRegex.exec(configContent)) !== null) {
     const item = match[1];
     const label = match[2];
+    const itemType = match[3];
     
     // Determine category based on item name
     let category;
@@ -35,7 +36,7 @@ while ((match = itemRegex.exec(configContent)) !== null) {
     }
     
     if (category) {
-        items.push({ item, label, category });
+        items.push({ item, label, category, itemType });
     }
 }
 
@@ -44,12 +45,13 @@ const upgradeableItemsRegex = /UpgradeableItems\s*=\s*{([\s\S]*?)},\s*UILocales/
 const upgradeableMatch = upgradeableItemsRegex.exec(configContent);
 if (upgradeableMatch) {
   const upgradeableBlock = upgradeableMatch[1];
-  const bagItemRegex = /{item = "([^"]+)", label = "([^"]+)"/g;
+  const bagItemRegex = /{item = "([^"]+)", label = "([^"]+)", itemType = "([^"]+)"/g;
   let bagMatch;
   while ((bagMatch = bagItemRegex.exec(upgradeableBlock)) !== null) {
     const item = bagMatch[1];
     const label = bagMatch[2];
-    items.push({ item, label, category: 'bag' });
+    const itemType = bagMatch[3];
+    items.push({ item, label, category: 'bag', itemType });
   }
 }
 
