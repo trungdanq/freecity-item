@@ -5370,6 +5370,186 @@ const items = [
     "itemType": "uncommon"
   },
   {
+    "item": "jacket_m_11_100",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_100_1",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_100_2",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_100_3",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_100_4",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_186",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_186_1",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_282",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_282_1",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_282_2",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_282_3",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_282_4",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_282_5",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_283",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_283_1",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_283_2",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_283_3",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_283_4",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_283_5",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_347",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_347_1",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_404",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_407",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_416",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_416_1",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_416_2",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_416_3",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_416_4",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_449",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "jacket_m_11_453",
+    "label": "Áo nam",
+    "category": "ao-nam",
+    "itemType": "rare"
+  },
+  {
     "item": "jacket_m_11_0",
     "label": "Áo nam",
     "category": "ao-nam",
@@ -9661,24 +9841,6 @@ const items = [
   },
   {
     "item": "pants_m_4_359",
-    "label": "Quần nam",
-    "category": "quan-nam",
-    "itemType": "rare"
-  },
-  {
-    "item": "pants_m_4_362",
-    "label": "Quần nam",
-    "category": "quan-nam",
-    "itemType": "rare"
-  },
-  {
-    "item": "pants_m_4_363",
-    "label": "Quần nam",
-    "category": "quan-nam",
-    "itemType": "rare"
-  },
-  {
-    "item": "pants_m_4_366",
     "label": "Quần nam",
     "category": "quan-nam",
     "itemType": "rare"
@@ -14479,12 +14641,6 @@ const items = [
   },
   {
     "item": "pants_m_4_361",
-    "label": "Quần nam",
-    "category": "quan-nam",
-    "itemType": "mythical"
-  },
-  {
-    "item": "pants_m_4_365",
     "label": "Quần nam",
     "category": "quan-nam",
     "itemType": "mythical"

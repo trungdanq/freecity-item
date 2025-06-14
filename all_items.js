@@ -223,6 +223,18 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "drillatm",
+    "label": "Khoan ATM",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "drillcraft",
+    "label": "Bộ chế tạo khoan ATM",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
     "item": "underglow",
     "label": "Đèn LED Gầm Xe",
     "itemType": "common",
@@ -1843,6 +1855,30 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "bag_m_5_224_1",
+    "label": "Balo cảnh sát nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_f_5_246",
+    "label": "Balo cảnh sát nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_223",
+    "label": "Balo bác sĩ nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_f_5_244",
+    "label": "Balo bác sĩ nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
     "item": "bag_m_5_115",
     "label": "Balo 3 (nam)",
     "itemType": "rare",
@@ -2284,30 +2320,6 @@ window.items = [
     "item": "bag_f_5_280_1",
     "label": "Balo 3 (nữ)",
     "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_224_1",
-    "label": "Balo cảnh sát nam",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_f_5_246",
-    "label": "Balo cảnh sát nữ",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_223",
-    "label": "Balo bác sĩ nam",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_f_5_244",
-    "label": "Balo bác sĩ nữ",
-    "itemType": "legendary",
     "category": "other"
   },
   {
@@ -3634,6 +3646,186 @@ window.items = [
     "item": "jacket_m_11_561_1",
     "label": "Áo nam",
     "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_100",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_100_1",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_100_2",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_100_3",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_100_4",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_186",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_186_1",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_282",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_282_1",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_282_2",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_282_3",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_282_4",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_282_5",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_283",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_283_1",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_283_2",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_283_3",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_283_4",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_283_5",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_347",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_347_1",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_404",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_407",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_416",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_416_1",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_416_2",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_416_3",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_416_4",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_449",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_453",
+    "label": "Áo nam",
+    "itemType": "rare",
     "category": "other"
   },
   {
@@ -11377,24 +11569,6 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "pants_m_4_362",
-    "label": "Quần nam",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "pants_m_4_363",
-    "label": "Quần nam",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "pants_m_4_366",
-    "label": "Quần nam",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
     "item": "pants_m_4_367",
     "label": "Quần nam",
     "itemType": "rare",
@@ -12290,12 +12464,6 @@ window.items = [
   },
   {
     "item": "pants_m_4_361",
-    "label": "Quần nam",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "pants_m_4_365",
     "label": "Quần nam",
     "itemType": "legendary",
     "category": "other"
