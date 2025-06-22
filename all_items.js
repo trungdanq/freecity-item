@@ -1459,6 +1459,42 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "advancedlockpickcraft",
+    "label": "Bộ chế tạo Lockpick cao cấp",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "weapon_digiscanner",
+    "label": "Radar Tần Số Chìa Khóa",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "car_wheel",
+    "label": "Bánh Xe Ô Tô",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "car_door",
+    "label": "Cửa Xe Ô Tô",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "radiator",
+    "label": "Bộ Tản Nhiệt Ô Tô",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "trunk",
+    "label": "Cốp Xe Ô Tô",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
     "item": "bag_b_0_0",
     "label": "Túi vải",
     "itemType": "common",
@@ -3004,6 +3040,12 @@ window.items = [
     "item": "bag_f_5_285_1",
     "label": "Balo 5 (nữ)",
     "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "vai",
+    "label": "Vải thô",
+    "itemType": "common",
     "category": "other"
   },
   {
@@ -12897,73 +12939,73 @@ window.items = [
   {
     "item": "undershirt_m_8_211",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_212",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_221",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_229",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_233",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_234",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_237",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_239",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_250",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_295",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_299",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "undershirt_m_8_300",
     "label": "Quần nam ngoài",
-    "itemType": "common",
+    "itemType": "mythical",
     "category": "other"
   },
   {

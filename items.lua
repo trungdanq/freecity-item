@@ -273,8 +273,8 @@ return {
 	['piranha'] = { label = 'Cá răng đao', rarity = "hiếm", weight = 1500, stack = true, close = true, description = "Bán cá lấy tiền", },
 	['red_snapper'] = { label = 'Cá hồng vịnh', rarity = "hiếm", weight = 2500, stack = true, close = true, description = "Bán cá lấy tiền", },
 	['mahi_mahi'] = { label = 'Cá nục heo cờ', rarity = "hiếm", weight = 3500, stack = true, close = true, description = "Bán cá lấy tiền", },
-	['tuna'] = { label = 'Cá ngừ', rarity = "sử thi", weight = 10000, stack = true, close = true, description = "Bán cá lấy tiền", },
-	['shark'] = { label = 'Cá mập', rarity = "thần thoại", weight = 7500, stack = true, close = true, description = "Bán cá lấy tiền", },
+	['tuna'] = { label = 'Cá ngừ', rarity = "sử thi", weight = 7500, stack = true, close = true, description = "Bán cá lấy tiền", },
+	['shark'] = { label = 'Cá mập', rarity = "thần thoại", weight = 5000, stack = true, close = true, description = "Bán cá lấy tiền", },
 
 	["mechanic_tools"] = { label = "Dụng cụ cơ khí", weight = 500, stack = false, close = true, degrade = 1440, description = "Dụng cụ kiểm tra xe", },
 	["toolbox"] = { label = "Hộp dụng cụ", weight = 500, stack = false, close = true, degrade = 1440, description = "Cần thiết để tháo bỏ các bộ phận hiệu suất", },
@@ -326,8 +326,13 @@ return {
 	["axleparts"] = { label = "Bộ Phận Cầu Xe", weight = 500, stack = false, close = false, },
 	["sparetire"] = { label = "Lốp Dự Phòng", weight = 500, stack = false, close = false, },
 
-	--['lotteryticket'] = { label = 'Vé số',weight = 5, stack = true, close = true, client = {useable = true} },
-
+	--Trộm xe
+	["advancedlockpickcraft"] = { label = "Bộ chế tạo Lockpick cao cấp", weight = 1000, stack = false, close = false, },
+	["weapon_digiscanner"] = { label = "Radar Tần Số Chìa Khóa", weight = 1000, stack = false, close = false, },
+	["car_wheel"] = { label = "Bánh Xe Ô Tô", weight = 2000, stack = false, close = false, },
+	["car_door"] = { label = "Cửa Xe Ô Tô", weight = 2000, stack = false, close = false, },
+	["radiator"] = { label = "Bộ Tản Nhiệt Ô Tô", weight = 2000, stack = false, close = false, },
+	["trunk"] = { label = "Cốp Xe Ô Tô", weight = 2000, stack = false, close = false, },
 	
 	------ BALO -------
 	["bag_b_0_0"] = { label = "Túi vải", rarity = "thường", weight = 100, stack = false, close = true, description = "Dùng để đập balo 1", },
@@ -600,6 +605,8 @@ return {
 	["bag_f_5_284_1"] = { label = "Balo 5 (nữ)", rarity = "thần thoại", weight = 1000, stack = false, close = true, description = "+30 ô chứa và +60kg", },
 	["bag_f_5_285"] = { label = "Balo 5 (nữ)", rarity = "thần thoại", weight = 1000, stack = false, close = true, description = "+30 ô chứa và +60kg", },
 	["bag_f_5_285_1"] = { label = "Balo 5 (nữ)", rarity = "thần thoại", weight = 1000, stack = false, close = true, description = "+30 ô chứa và +60kg", },
+
+	["vai"] = { label = "Vải thô", rarity = "thường", weight = 100, stack = false, close = true, description = "Dùng để đập quần áo", },
 
 	-- ÁO
 	-- Nam
@@ -2275,18 +2282,18 @@ return {
 	["pants_m_4_427"] = { label = "Quần nam", rarity = "thần thoại", weight = 100, stack = false, close = true, },
 	["pants_m_4_454"] = { label = "Quần nam", rarity = "thần thoại", weight = 100, stack = false, close = true, },
 
-	["undershirt_m_8_211"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_212"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_221"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_229"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_233"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_234"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_237"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_239"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_250"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_295"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_299"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
-	["undershirt_m_8_300"] = { label = "Quần nam ngoài", rarity = "huyền thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_211"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_212"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_221"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_229"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_233"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_234"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_237"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_239"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_250"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_295"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_299"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
+	["undershirt_m_8_300"] = { label = "Quần nam ngoài", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nam trong", },
 
 	-- Nữ
 	["pants_f_4_13"] = { label = "Quần nữ trong", rarity = "thần thoại", weight = 100, stack = false, close = true, description = "Dùng cùng với Quần nữ ngoài", },
