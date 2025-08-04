@@ -13,6 +13,12 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "muabanxe",
+    "label": "Giấy tờ mua bán xe",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
     "item": "tuimu",
     "label": "Túi mù",
     "itemType": "common",
@@ -235,12 +241,6 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "underglow",
-    "label": "Đèn LED Gầm Xe",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
     "item": "drives2",
     "label": "Trục Truyền Động Cấp 2",
     "itemType": "common",
@@ -373,12 +373,6 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "repairkit",
-    "label": "Bộ Sửa Chữa",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
     "item": "bottle",
     "label": "Chai Rỗng",
     "itemType": "common",
@@ -388,6 +382,36 @@ window.items = [
     "item": "diving_fill",
     "label": "Túi Oxy",
     "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "axe_1",
+    "label": "Rìu +1",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "axe_2",
+    "label": "Rìu +2",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "axe_3",
+    "label": "Rìu +3",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "axe_4",
+    "label": "Rìu +4",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "axe_5",
+    "label": "Rìu +5",
+    "itemType": "mythical",
     "category": "other"
   },
   {
@@ -517,12 +541,6 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "cleaningkit",
-    "label": "Bộ dụng cụ vệ sinh",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
     "item": "handcuffs",
     "label": "Còng Tay",
     "itemType": "common",
@@ -547,20 +565,38 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "pickaxe",
-    "label": "Cuốc chim",
+    "item": "pickaxe_1",
+    "label": "Cuốc chim +1",
     "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "pickaxe_2",
+    "label": "Cuốc chim +2",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "pickaxe_3",
+    "label": "Cuốc chim +3",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "pickaxe_4",
+    "label": "Cuốc chim +4",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "pickaxe_5",
+    "label": "Cuốc chim +5",
+    "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "drillbit",
     "label": "Lưỡi cắt đá",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
-    "item": "harness",
-    "label": "Dây An Toàn Đua Xe",
     "itemType": "common",
     "category": "other"
   },
@@ -757,12 +793,6 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "manual",
-    "label": "Hộp Số Tay",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
     "item": "security_card_01",
     "label": "Thẻ An Ninh A",
     "itemType": "common",
@@ -770,7 +800,7 @@ window.items = [
   },
   {
     "item": "casinochips",
-    "label": "Xèng Casino",
+    "label": "Chip Casino",
     "itemType": "common",
     "category": "other"
   },
@@ -945,6 +975,12 @@ window.items = [
   {
     "item": "weed_ak47",
     "label": "AK47 2g",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "ziptie",
+    "label": "Dây thít",
     "itemType": "common",
     "category": "other"
   },
@@ -1159,14 +1195,8 @@ window.items = [
     "category": "other"
   },
   {
-    "item": "ziptie",
-    "label": "Dây thít",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
     "item": "mechanic_tools",
-    "label": "Dụng cụ cơ khí",
+    "label": "Dụng cụ thợ máy",
     "itemType": "common",
     "category": "other"
   },
@@ -1178,127 +1208,139 @@ window.items = [
   },
   {
     "item": "ducttape",
-    "label": "Băng dính",
-    "itemType": "common",
-    "category": "other"
-  },
-  {
-    "item": "mechboard",
-    "label": "Bảng cơ khí",
+    "label": "Băng keo",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "turbo",
-    "label": "Turbo Tăng Áp",
+    "label": "Turbo tăng áp",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "car_armor",
-    "label": "Giáp Xe",
+    "label": "Giáp xe",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "nos",
+    "label": "Bình NOS",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "noscan",
+    "label": "Bình NOS rỗng",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "noscolour",
+    "label": "Kim phun màu NOS",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "engine1",
-    "label": "Động cơ cấp 1",
+    "label": "Động cơ Cấp 1",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "engine2",
-    "label": "Động cơ cấp 2",
+    "label": "Động cơ Cấp 2",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "engine3",
-    "label": "Động cơ cấp 3",
+    "label": "Động cơ Cấp 3",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "engine4",
-    "label": "Động cơ cấp 4",
+    "label": "Động cơ Cấp 4",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "engine5",
-    "label": "Động cơ cấp 5",
+    "label": "Động cơ Cấp 5",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "transmission1",
-    "label": "Hộp số cấp 1",
+    "label": "Hộp số Cấp 1",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "transmission2",
-    "label": "Hộp số cấp 2",
+    "label": "Hộp số Cấp 2",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "transmission3",
-    "label": "Hộp số cấp 3",
+    "label": "Hộp số Cấp 3",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "transmission4",
-    "label": "Hộp số cấp 4",
+    "label": "Hộp số Cấp 4",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "brakes1",
-    "label": "Phanh cấp 1",
+    "label": "Phanh Cấp 1",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "brakes2",
-    "label": "Phanh cấp 2",
+    "label": "Phanh Cấp 2",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "brakes3",
-    "label": "Phanh cấp 3",
+    "label": "Phanh Cấp 3",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "suspension1",
-    "label": "Hệ thống treo cấp 1",
+    "label": "Hệ thống treo Cấp 1",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "suspension2",
-    "label": "Hệ thống treo cấp 2",
+    "label": "Hệ thống treo Cấp 2",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "suspension3",
-    "label": "Hệ thống treo cấp 3",
+    "label": "Hệ thống treo Cấp 3",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "suspension4",
-    "label": "Hệ thống treo cấp 4",
+    "label": "Hệ thống treo Cấp 4",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "suspension5",
-    "label": "Hệ thống treo cấp 5",
+    "label": "Hệ thống treo Cấp 5",
     "itemType": "common",
     "category": "other"
   },
@@ -1315,146 +1357,284 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "oilp1",
+    "label": "Bơm dầu Cấp 1",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "oilp2",
+    "label": "Bơm dầu Cấp 2",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "oilp3",
+    "label": "Bơm dầu Cấp 3",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "drives1",
+    "label": "Trục truyền động Cấp 1",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "drives2",
+    "label": "Trục truyền động Cấp 2",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "drives3",
+    "label": "Trục truyền động Cấp 3",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cylind1",
+    "label": "Nắp xi lanh Cấp 1",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cylind2",
+    "label": "Nắp xi lanh Cấp 2",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cylind3",
+    "label": "Nắp xi lanh Cấp 3",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cables1",
+    "label": "Dây ắc quy Cấp 1",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cables2",
+    "label": "Dây ắc quy Cấp 2",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cables3",
+    "label": "Dây ắc quy Cấp 3",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "fueltank1",
+    "label": "Bình xăng Cấp 1",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "fueltank2",
+    "label": "Bình xăng Cấp 2",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "fueltank3",
+    "label": "Bình xăng Cấp 3",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "antilag",
+    "label": "Chống trễ Turbo (AntiLag)",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
     "item": "underglow_controller",
-    "label": "Bộ Điều Khiển Đèn Gầm",
+    "label": "Bộ điều khiển Neon",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "headlights",
-    "label": "Đèn Pha Xenon",
+    "label": "Đèn pha Xenon",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "tint_supplies",
-    "label": "Bộ Phim Cách Nhiệt",
+    "label": "Bộ dán kính cửa sổ",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "customplate",
-    "label": "Trang trí biển số",
+    "label": "Biển số tùy chỉnh",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "hood",
-    "label": "Nắp Ca-pô Xe",
+    "label": "Nắp capo xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "roof",
-    "label": "Nắp capo",
+    "label": "Nóc xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "spoiler",
-    "label": "Cánh Lướt Gió",
+    "label": "Cánh gió xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bumper",
-    "label": "Cản Trước/Sau",
+    "label": "Cản xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "skirts",
-    "label": "Ốp Hông Xe",
+    "label": "Ốp sườn xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "exhaust",
-    "label": "Ống Xả",
+    "label": "Ống xả xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "seat",
-    "label": "Ghế Tùy Chỉnh",
+    "label": "Trang trí ghế ngồi",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "rollcage",
-    "label": "Khung Chống Lật",
+    "label": "Khung chống lật",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "rims",
-    "label": "La-zăng Tùy Chỉnh",
+    "label": "Mâm bánh xe tùy chỉnh",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "livery",
-    "label": "Trang Trí Xe",
+    "label": "Cuộn tem xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "paintcan",
-    "label": "Bình Sơn Xe",
+    "label": "Bình xịt sơn xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "tires",
-    "label": "Lốp Tạo Khói Drift",
+    "label": "Lốp khói Drift",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "horn",
-    "label": "Còi Xe Tùy Chỉnh",
+    "label": "Còi xe tùy chỉnh",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "internals",
-    "label": "Phụ Kiện Nội Thất",
+    "label": "Trang trí nội thất",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "externals",
-    "label": "Phụ Kiện Ngoại Thất",
+    "label": "Trang trí ngoại thất",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "newoil",
-    "label": "Dầu Xe",
+    "label": "Dầu nhớt xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "sparkplugs",
-    "label": "Buggi Đánh Lửa",
+    "label": "Bugi",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "carbattery",
-    "label": "Bình Ắc Quy",
+    "label": "Ắc quy xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "axleparts",
-    "label": "Bộ Phận Cầu Xe",
+    "label": "Phụ tùng trục xe",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "sparetire",
-    "label": "Lốp Dự Phòng",
+    "label": "Lốp dự phòng",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "harness",
+    "label": "Đai an toàn đua",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "manual",
+    "label": "Hộp số sàn",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "underglow",
+    "label": "Đèn LED gầm xe",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "stancerkit",
+    "label": "Bộ Stancer",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "cleaningkit",
+    "label": "Bộ dụng cụ vệ sinh",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "repairkit",
+    "label": "Bộ sửa chữa",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "advancedrepairkit",
+    "label": "Bộ sửa chữa cao cấp",
     "itemType": "common",
     "category": "other"
   },
@@ -1495,6 +1675,30 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "heist_papers",
+    "label": "Giấy bán siêu xe",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "casino_gumball",
+    "label": "Kẹo",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "casino_member",
+    "label": "Casino Member",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
+    "item": "casino_vip",
+    "label": "Casino V.I.P",
+    "itemType": "common",
+    "category": "other"
+  },
+  {
     "item": "bag_b_0_0",
     "label": "Túi vải",
     "itemType": "common",
@@ -1502,391 +1706,391 @@ window.items = [
   },
   {
     "item": "bag_m_5_175",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_175_1",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_176",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_176_1",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_192",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_192_1",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_227",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_234",
-    "label": "Balo 1 (nam)",
+    "label": "Balo +1 (nam)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_185",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_191",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_191_1",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_194",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_194_1",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_222",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_222_1",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_223",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_223_1",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_247",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_248",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_f_5_254",
-    "label": "Balo 1 (nữ)",
+    "label": "Balo +1 (nữ)",
     "itemType": "common",
     "category": "other"
   },
   {
     "item": "bag_m_5_177",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_177_1",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_179",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_182",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_182_1",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_204",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_208",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_217",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_222",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_263",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_m_5_263_1",
-    "label": "Balo 2 (nam)",
+    "label": "Balo +2 (nam)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_140",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_140_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_156",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_156_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_160",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_198",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_203",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_207",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_214",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_224",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_224_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_226",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_227",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_227_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_228",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_229",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_229_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_238",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_243",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_260",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_260_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_264",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_264_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_267",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_267_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_270",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_274",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_274_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_275",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_275_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_276",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_279",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_281",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
   {
     "item": "bag_f_5_281_1",
-    "label": "Balo 2 (nữ)",
+    "label": "Balo +2 (nữ)",
     "itemType": "uncommon",
     "category": "other"
   },
@@ -1916,1129 +2120,1129 @@ window.items = [
   },
   {
     "item": "bag_m_5_115",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_1",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_2",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_3",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_4",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_5",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_6",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_7",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_115_8",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_133",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_140",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_140_1",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_140_2",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_160",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_160_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_163",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_163_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_190",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_190_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_229",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_229_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_232",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_233",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_233_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_235",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_235_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_245",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_245_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_257",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_257_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_259",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_259_1",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_260",
-    "label": "Balo 3 (nam)",
-    "itemType": "rare",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_260_1",
-    "label": "Balo 3 (nam)",
+    "label": "Balo +3 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_166",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_166_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_180",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_180_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_183",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_183_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_187",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_187_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_189",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_189_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_199",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_204",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_204_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_213",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_237",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_237_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +3 (nữ)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_163",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_163_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_190",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_190_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_229",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_229_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_232",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_233",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_233_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_235",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_235_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_245",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_245_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_257",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_257_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_259",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_259_1",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_260",
+    "label": "Balo +4 (nam)",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_260_1",
+    "label": "Balo +4 (nam)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_249",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_249_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_252",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_253",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_253_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_255",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_255_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_256",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_256_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_257",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_257_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_259",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_259_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_265",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_265_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_269",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_269_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_271",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_271_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_272",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_272_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_273",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_280",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_f_5_280_1",
-    "label": "Balo 3 (nữ)",
+    "label": "Balo +4 (nữ)",
     "itemType": "rare",
     "category": "other"
   },
   {
     "item": "bag_m_5_112",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_1",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_2",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_3",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_4",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_5",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_6",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_7",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_8",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_9",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_112_10",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_113",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_113_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_142",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_148",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_148_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_158",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_158_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_169",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_170",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_170_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_174",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_174_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_189",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_189_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_194",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_194_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_198",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_198_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_207",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_228",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_228_1",
-    "label": "Balo 4 (nam)",
-    "itemType": "legendary",
-    "category": "other"
-  },
-  {
-    "item": "bag_m_5_238",
-    "label": "Balo 4 (nam)",
+    "label": "Balo +5 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_127",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_127_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_150",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_150_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_150_2",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_150_3",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_150_4",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_150_5",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +5 (nữ)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_113",
+    "label": "Balo +6 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_113_1",
+    "label": "Balo +6 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_142",
+    "label": "Balo +6 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_148",
+    "label": "Balo +6 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_148_1",
+    "label": "Balo +6 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_154",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_154_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_154_2",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_154_3",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_164",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_168",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_168_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +6 (nữ)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_158",
+    "label": "Balo +7 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_158_1",
+    "label": "Balo +7 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_169",
+    "label": "Balo +7 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_170",
+    "label": "Balo +7 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_170_1",
+    "label": "Balo +7 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_178",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_178_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_186",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_186_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_188",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_188_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_193",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_193_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +7 (nữ)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_174",
+    "label": "Balo +8 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_174_1",
+    "label": "Balo +8 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_189",
+    "label": "Balo +8 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_189_1",
+    "label": "Balo +8 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_194",
+    "label": "Balo +8 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_194_1",
+    "label": "Balo +8 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_197",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_197_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_206",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_208",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_216",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_217",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_217_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +8 (nữ)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_198",
+    "label": "Balo +9 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_198_1",
+    "label": "Balo +9 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_207",
+    "label": "Balo +9 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_228",
+    "label": "Balo +9 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_228_1",
+    "label": "Balo +9 (nam)",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "bag_m_5_238",
+    "label": "Balo +9 (nam)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_221",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_221_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_261",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_261_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_277",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_277_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_283",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_f_5_283_1",
-    "label": "Balo 4 (nữ)",
+    "label": "Balo +9 (nữ)",
     "itemType": "legendary",
     "category": "other"
   },
   {
     "item": "bag_m_5_135",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_144",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_149",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_149_1",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_165",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_165_1",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_171",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_172",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_172_1",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_206",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_206_1",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_221",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_221_1",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_270",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_m_5_270_1",
-    "label": "Balo 5 (nam)",
+    "label": "Balo +10 (nam)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_143",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_163",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_163_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_169",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_169_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_184",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_184_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_190",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_190_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_195",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_196",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_205",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_205_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_212",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_212_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_218",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_219",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_219_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_242",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_242_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_250",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_251",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_282",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_282_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_284",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_284_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_285",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
   {
     "item": "bag_f_5_285_1",
-    "label": "Balo 5 (nữ)",
+    "label": "Balo +10 (nữ)",
     "itemType": "mythical",
     "category": "other"
   },
@@ -3691,6 +3895,1278 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "jacket_m_11_3",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_4",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_6",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_7",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_8",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_10",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_14",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_19",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_23",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_24",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_27",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_28",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_29",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_30",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_31",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_32",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_39",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_42",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_43",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_44",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_45",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_46",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_50",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_51",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_52",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_53",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_54",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_55",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_57",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_58",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_59",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_60",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_61",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_62",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_67",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_71",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_78",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_79",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_82",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_85",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_91",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_96",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_99",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_101",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_102",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_103",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_104",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_106",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_108",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_109",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_110",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_111",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_112",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_114",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_115",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_117",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_118",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_119",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_120",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_123",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_127",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_129",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_130",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_131",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_132",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_133",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_134",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_135",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_142",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_144",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_145",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_146",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_147",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_148",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_149",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_151",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_154",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_156",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_158",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_159",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_160",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_161",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_162",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_164",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_165",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_167",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_170",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_171",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_173",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_174",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_175",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_176",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_177",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_178",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_179",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_180",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_181",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_182",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_183",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_184",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_185",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_187",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_188",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_189",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_191",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_193",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_195",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_196",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_197",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_198",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_247",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_248",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_250",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_251",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_252",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_253",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_254",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_255",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_256",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_258",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_259",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_261",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_262",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_264",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_265",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_268",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_269",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_270",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_271",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_272",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_273",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_274",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_284",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_285",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_286",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_288",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_289",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_292",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_294",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_299",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_305",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_306",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_307",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_308",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_309",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_321",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_322",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_326",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_329",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_348",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_351",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_352",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_355",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_356",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_360",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_362",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_363",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_364",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_365",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_366",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_367",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_368",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_380",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_382",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_386",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_387",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_392",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_393",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_394",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_405",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_408",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_409",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_417",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_419",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_422",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_426",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_427",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_435",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_437",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_438",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_440",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_446",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_447",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_455",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_457",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_458",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_461",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_462",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_463",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_465",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_467",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_474",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_475",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_479",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_497",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_503",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_504",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_505",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_519",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_521",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_522",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_523",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_525",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_538",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_543",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_544",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_546",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_550",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_554",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_557",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_560",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_563",
+    "label": "Áo nam",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
     "item": "jacket_m_11_100",
     "label": "Áo nam",
     "itemType": "rare",
@@ -3866,6 +5342,516 @@ window.items = [
   },
   {
     "item": "jacket_m_11_453",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_20",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_34",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_63",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_65",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_68",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_69",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_70",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_72",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_77",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_80",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_81",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_83",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_89",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_92",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_93",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_94",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_95",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_97",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_105",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_122",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_136",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_138",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_140",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_143",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_266",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_281",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_290",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_295",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_296",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_297",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_298",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_300",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_302",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_303",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_304",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_310",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_311",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_313",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_320",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_323",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_350",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_353",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_354",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_359",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_376",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_377",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_383",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_384",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_385",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_388",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_395",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_397",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_398",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_402",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_403",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_410",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_411",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_412",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_413",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_414",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_415",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_424",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_425",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_432",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_433",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_434",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_445",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_450",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_451",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_452",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_456",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_464",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_466",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_468",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_491",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_509",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_510",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_514",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_515",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_531",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_532",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_536",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_539",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_551",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_562",
     "label": "Áo nam",
     "itemType": "rare",
     "category": "other"
@@ -5131,6 +7117,1518 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "jacket_m_11_37",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_107",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_206",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_209",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_210",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_211",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_216",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_225",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_230",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_231",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_236",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_240",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_333",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_571",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_574",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_576",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_579",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_580",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_583",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_584",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_585",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_593",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_594",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_605",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_609",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_610",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_618",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_619",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_620",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_622",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_623",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_624",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_625",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_626",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_629",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_639",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_644",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_645",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_646",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_655",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_667",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_669",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_674",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_677",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_689",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_690",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_691",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_692",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_693",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_694",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_695",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_696",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_697",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_698",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_699",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_700",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_701",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_703",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_704",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_705",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_706",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_707",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_708",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_709",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_710",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_711",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_712",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_713",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_714",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_715",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_716",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_717",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_718",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_719",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_720",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_721",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_722",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_724",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_725",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_726",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_727",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_728",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_730",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_732",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_733",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_734",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_735",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_736",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_737",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_738",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_739",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_740",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_741",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_742",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_743",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_744",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_745",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_746",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_747",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_748",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_749",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_750",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_751",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_752",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_753",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_754",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_755",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_756",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_757",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_760",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_761",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_762",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_763",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_764",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_765",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_767",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_769",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_770",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_771",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_772",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_773",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_774",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_775",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_777",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_778",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_780",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_784",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_785",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_788",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_789",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_790",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_791",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_792",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_793",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_794",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_795",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_796",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_797",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_799",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_801",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_802",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_804",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_809",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_821",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_823",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_824",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_827",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_831",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_832",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_834",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_838",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_839",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_840",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_841",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_842",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_862",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_869",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_871",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_872",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_887",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_902",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_903",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_904",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_905",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_907",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_908",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_909",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_910",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_911",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_912",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_913",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_914",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_915",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_916",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_917",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_918",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_919",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_920",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_921",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_923",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_924",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_925",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_928",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_929",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_930",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_932",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_933",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_935",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_936",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_937",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_938",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_940",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_941",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_944",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_945",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_946",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_948",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_949",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_952",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_953",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_954",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_955",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_957",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_959",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_960",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_962",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_964",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_966",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_967",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_970",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_971",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_972",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_973",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_977",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_981",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_982",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_983",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_984",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_985",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_987",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_988",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_989",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_990",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_991",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_992",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_995",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_996",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_998",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_999",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1000",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1003",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1004",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1005",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1008",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1009",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1012",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1013",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1017",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1018",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1020",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1022",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1023",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1026",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1027",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1028",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1029",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1035",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1038",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1045",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1046",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1050",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1051",
+    "label": "Áo nam",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
     "item": "jacket_m_11_205",
     "label": "Áo nam",
     "itemType": "legendary",
@@ -5767,6 +9265,654 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "jacket_m_11_35",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_212",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_215",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_217",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_220",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_221",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_222",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_224",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_228",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_233",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_234",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_237",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_238",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_239",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_242",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_332",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_334",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_337",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_568",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_569",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_570",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_572",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_573",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_577",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_578",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_587",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_590",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_591",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_592",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_598",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_599",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_602",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_603",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_606",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_608",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_630",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_635",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_641",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_547",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_648",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_657",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_665",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_671",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_675",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_702",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_723",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_729",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_731",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_768",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_776",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_786",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_787",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_800",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_806",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_807",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_808",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_811",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_812",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_813",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_814",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_816",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_817",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_818",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_819",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_820",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_822",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_825",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_826",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_835",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_837",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_843",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_846",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_847",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_848",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_849",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_850",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_851",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_853",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_859",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_860",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_864",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_870",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_874",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_875",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_877",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_885",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_886",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_892",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_894",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_896",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_898",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_899",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_906",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_926",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_934",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_965",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_968",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_979",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1015",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1036",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1037",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1039",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1040",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1042",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1043",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1052",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1053",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1054",
+    "label": "Áo nam",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
     "item": "jacket_m_11_202",
     "label": "Áo nam",
     "itemType": "mythical",
@@ -5966,6 +10112,246 @@ window.items = [
   },
   {
     "item": "jacket_m_11_1007_1",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_201",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_208",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_219",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_223",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_227",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_235",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_241",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_246",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_335",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_336",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_588",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_589",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_595",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_600",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_612",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_613",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_615",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_616",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_634",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_636",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_637",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_638",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_640",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_643",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_649",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_650",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_651",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_652",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_653",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_660",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_661",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_882",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_883",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_893",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_895",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1032",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1033",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1041",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1049",
+    "label": "Áo nam",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_m_11_1056",
     "label": "Áo nam",
     "itemType": "mythical",
     "category": "other"
@@ -6697,6 +11083,1146 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "jacket_f_11_6",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_7",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_8",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_10",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_20",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_24",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_25",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_139",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_142",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_143",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_144",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_146",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_150",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_151",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_152",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_153",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_156",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_157",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_158",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_159",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_160",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_161",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_162",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_163",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_169",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_171",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_183",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_189",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_192",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_193",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_194",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_195",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_197",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_199",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_200",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_203",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_206",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_207",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_208",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_210",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_220",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_221",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_222",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_223",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_227",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_231",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_233",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_234",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_235",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_236",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_237",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_238",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_245",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_246",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_248",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_249",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_252",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_253",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_258",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_260",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_262",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_263",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_264",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_266",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_272",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_274",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_276",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_279",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_280",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_283",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_284",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_285",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_286",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_287",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_289",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_290",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_291",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_292",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_293",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_296",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_298",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_300",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_303",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_304",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_306",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_307",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_409",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_410",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_411",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_413",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_414",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_415",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_416",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_417",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_418",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_419",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_427",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_428",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_429",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_431",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_438",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_441",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_443",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_444",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_446",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_449",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_450",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_451",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_452",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_453",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_454",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_458",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_470",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_474",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_477",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_565",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_568",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_569",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_571",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_572",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_579",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_582",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_583",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_584",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_585",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_590",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_591",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_592",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_599",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_600",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_603",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_605",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_607",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_608",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_609",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_610",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_611",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_612",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_616",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_617",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_618",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_623",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_625",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_626",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_628",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_631",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_632",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_635",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_636",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_637",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_645",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_647",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_650",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_653",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_655",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_656",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_670",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_672",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_677",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_679",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_680",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_681",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_691",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_692",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_693",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_694",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_697",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_698",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_699",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_700",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_702",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_703",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_712",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_713",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_717",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_737",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_742",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_753",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_763",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_765",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_766",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_767",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_769",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_782",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_788",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_792",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_797",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_803",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_809",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_812",
+    "label": "Áo nữ",
+    "itemType": "uncommon",
+    "category": "other"
+  },
+  {
     "item": "jacket_f_11_196",
     "label": "Áo nữ",
     "itemType": "rare",
@@ -6908,6 +12434,450 @@ window.items = [
   },
   {
     "item": "jacket_f_11_810",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_3",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_145",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_154",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_155",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_164",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_165",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_166",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_170",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_187",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_190",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_191",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_202",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_204",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_239",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_240",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_243",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_244",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_247",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_250",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_251",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_265",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_294",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_302",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_305",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_403",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_404",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_424",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_432",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_433",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_439",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_440",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_442",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_447",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_448",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_461",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_468",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_469",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_570",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_573",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_574",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_575",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_576",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_619",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_621",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_622",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_627",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_638",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_639",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_640",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_641",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_652",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_664",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_665",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_668",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_685",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_686",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_687",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_701",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_704",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_730",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_743",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_744",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_752",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_757",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_758",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_775",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_776",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_780",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_783",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_787",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_798",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_806",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_811",
     "label": "Áo nữ",
     "itemType": "rare",
     "category": "other"
@@ -8941,6 +14911,966 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "jacket_f_11_34",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_37",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_39",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_45",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_51",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_62",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_65",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_75",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_99",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_100",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_107",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_120",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_127",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_172",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_175",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_178",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_179",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_180",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_181",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_320",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_321",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_322",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_323",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_324",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_332",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_338",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_349",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_350",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_351",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_352",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_355",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_358",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_366",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_371",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_375",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_376",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_479",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_480",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_483",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_484",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_486",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_487",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_490",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_491",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_493",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_498",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_508",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_513",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_521",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_535",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_543",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_817",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_825",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_829",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_830",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_837",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_839",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_842",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_858",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_859",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_861",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_869",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_870",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_872",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_877",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_879",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_884",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_887",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_892",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_893",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_906",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_913",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_915",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_931",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_933",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_934",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_935",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_937",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_942",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_943",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_944",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_952",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_953",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_960",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_965",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_983",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_987",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_988",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_994",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_999",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1001",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1002",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1008",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1040",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1041",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1046",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1058",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1064",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1080",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1088",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1090",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1092",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1094",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1095",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1096",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1097",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1098",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1099",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1101",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1104",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1105",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1108",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1111",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1115",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1119",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1122",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1127",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1145",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1172",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1174",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1175",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1176",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1177",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1178",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1186",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1193",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1204",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1209",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1210",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1212",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1217",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1224",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1231",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1248",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1258",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1261",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1280",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1282",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1293",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1301",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1303",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1310",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1311",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1317",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1318",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1319",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1320",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1329",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1330",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1339",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1341",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1344",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1349",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1350",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1362",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1382",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1389",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1392",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1403",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1407",
+    "label": "Áo nữ",
+    "itemType": "rare",
+    "category": "other"
+  },
+  {
     "item": "jacket_f_11_38",
     "label": "Áo nữ",
     "itemType": "legendary",
@@ -9841,6 +16771,414 @@ window.items = [
     "category": "other"
   },
   {
+    "item": "jacket_f_11_53",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_80",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_85",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_86",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_87",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_88",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_90",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_91",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_92",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_94",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_105",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_116",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_117",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_118",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_312",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_337",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_339",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_342",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_344",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_347",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_354",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_481",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_485",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_488",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_518",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_524",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_890",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_897",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_899",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_900",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_903",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_904",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_914",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_918",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_936",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_948",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_949",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_955",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_967",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_973",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_974",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_976",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_986",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1005",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1010",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1017",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1021",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1023",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1027",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1029",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1038",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1044",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1059",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1068",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1076",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1077",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1079",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1162",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1215",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1226",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1273",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1276",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1298",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1312",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1336",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1366",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1368",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1369",
+    "label": "Áo nữ",
+    "itemType": "legendary",
+    "category": "other"
+  },
+  {
     "item": "jacket_f_11_57",
     "label": "Áo nữ",
     "itemType": "mythical",
@@ -10160,6 +17498,138 @@ window.items = [
   },
   {
     "item": "jacket_f_11_1396",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_33",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_67",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_89",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_95",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_96",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_124",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_330",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_340",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_341",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_482",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_853",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_977",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_978",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1000",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1035",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1230",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1262",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1271",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1284",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1300",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1380",
+    "label": "Áo nữ",
+    "itemType": "mythical",
+    "category": "other"
+  },
+  {
+    "item": "jacket_f_11_1390",
     "label": "Áo nữ",
     "itemType": "mythical",
     "category": "other"
