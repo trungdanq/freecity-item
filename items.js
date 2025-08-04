@@ -1398,6 +1398,456 @@ const items = [
     "itemType": "common"
   },
   {
+    "item": "watch_m_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_1",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_2",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_0",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_1",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_2",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_3",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_4",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_5",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_6",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_7",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_8",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_9",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_10",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_11",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_12",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_13",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_14",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_15",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_0",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_1",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_2",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_3",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_4",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_5",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_6",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_7",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_8",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_9",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_0",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_1",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_2",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_3",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_4",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_5",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_6",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_7",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_8",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_9",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_0",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_1",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_2",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_3",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_4",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_5",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
     "item": "jacket_m_11_9",
     "label": "Áo nam",
     "category": "ao-nam",
@@ -7761,6 +8211,318 @@ const items = [
     "item": "glasses_m_prop_1_48",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_22",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_23",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_24",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_25",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_26",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_27",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_28",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_29",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_30",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_31",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_32",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_33",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_34",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_35",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_21",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_22",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_23",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_24",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_25",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_16",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_17",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_18",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_19",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_20",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_21",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_22",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_23",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_24",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_25",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_10",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_11",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_12",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_13",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_14",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_15",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_6",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_7",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_8",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_9",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_10",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_11",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_12",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_13",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_14",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_15",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_16",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "uncommon"
   },
   {
@@ -16080,6 +16842,1602 @@ const items = [
     "itemType": "rare"
   },
   {
+    "item": "undershirt_f_8_29",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_30",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_31",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_32",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_33",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_34",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_35",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_36",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_38",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_39",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_40",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_41",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_42",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_43",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_44",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_45",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_46",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_47",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_48",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_49",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_50",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_51",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_53",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_54",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_55",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_56",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_57",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_58",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_59",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_60",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_61",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_62",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_63",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_64",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_65",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_66",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_67",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_155",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_156",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_157",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_158",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_159",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_160",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_161",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_162",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_163",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_164",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_165",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_166",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_167",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_168",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_169",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_170",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_171",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_172",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_173",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_174",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_175",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_176",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_177",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_178",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_179",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_180",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_181",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_182",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_183",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_184",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_185",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_186",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_187",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_188",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_189",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_190",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_191",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_192",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_193",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_194",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_263",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_264",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_265",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_266",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_267",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_268",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_269",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_270",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_271",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_273",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_274",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_275",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_276",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_277",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_278",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_279",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_280",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_281",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_282",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_283",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_284",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_285",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_286",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_287",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_288",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_289",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_290",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_291",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_292",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_293",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_294",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_295",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_296",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_298",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_299",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_300",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_301",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_302",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_303",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_304",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_305",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_306",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_379",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_380",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_381",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_382",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_383",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_384",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_385",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_386",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_387",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_388",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_389",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_390",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_391",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_392",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_393",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_394",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_395",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_396",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_397",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_398",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_399",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_400",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_401",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_402",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_403",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_404",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_405",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_406",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_407",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_408",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_409",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_410",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_411",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_412",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_413",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_414",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_415",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_416",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_417",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_418",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_419",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_420",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_421",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_422",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_423",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_424",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_425",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_426",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_427",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_428",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_429",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_430",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_431",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_432",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_433",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_434",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_435",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_436",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_437",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_438",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_439",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_440",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_441",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_442",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_443",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_444",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_445",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_446",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_447",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_448",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_449",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_450",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_451",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_452",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_453",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_454",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_455",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_456",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_457",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_458",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_459",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_460",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_461",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_462",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_463",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_464",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_465",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_466",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_467",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_468",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_469",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_470",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_471",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_472",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_473",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_474",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_475",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_476",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_477",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_478",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_479",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_480",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_481",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_482",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_483",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_484",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_485",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_486",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_487",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_488",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_489",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_490",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_491",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_492",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_493",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_494",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_495",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_496",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_497",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_498",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_499",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_500",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_501",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_502",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_503",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_504",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_505",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_506",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_507",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_508",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_509",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_510",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_511",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_512",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_513",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_514",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_515",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_516",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_517",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_518",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_519",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_520",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_521",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_522",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_523",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_524",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_525",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
     "item": "shoes_m_6_1",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -18396,6 +20754,1812 @@ const items = [
     "itemType": "rare"
   },
   {
+    "item": "chain_m_7_10",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_11",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_12",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_16",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_17",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_18",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_19",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_20",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_21",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_22",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_23",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_24",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_25",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_26",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_27",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_28",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_29",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_30",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_32",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_33",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_34",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_35",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_36",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_37",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_40",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_41",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_42",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_43",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_44",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_45",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_46",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_47",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_48",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_49",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_50",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_51",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_52",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_53",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_83",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_84",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_85",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_86",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_87",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_88",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_89",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_90",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_91",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_92",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_108",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_109",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_110",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_111",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_112",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_114",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_115",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_116",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_117",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_118",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_119",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_120",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_121",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_122",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_128",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_129",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_130",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_132",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_133",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_1",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_2",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_4",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_5",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_6",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_7",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_9",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_10",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_11",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_12",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_13",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_15",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_16",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_17",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_18",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_19",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_20",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_21",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_24",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_25",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_26",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_27",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_28",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_29",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_30",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_31",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_32",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_33",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_34",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_35",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_36",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_37",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_38",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_39",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_40",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_62",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_63",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_64",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_65",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_66",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_67",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_68",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_69",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_70",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_71",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_80",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_81",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_82",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_83",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_84",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_85",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_87",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_88",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_89",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_90",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_91",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_92",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_94",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_95",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_96",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_97",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_98",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_99",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_100",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_101",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_102",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_103",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_104",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_105",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_106",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_107",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_108",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_109",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_110",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_111",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_112",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_113",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_114",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_115",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_116",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_117",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_118",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_119",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_120",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_121",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_122",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_123",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_124",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_125",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_126",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_127",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_128",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_129",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_130",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_131",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_132",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_133",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_134",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_135",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_136",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_137",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_138",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_139",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_140",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_141",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_142",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_143",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_144",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_145",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_146",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_147",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_148",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_149",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_150",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_151",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_152",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_153",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_154",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_155",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_156",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_157",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_158",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_159",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_160",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_161",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_162",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_163",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_164",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_165",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_166",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_167",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_168",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_169",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_170",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_171",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_172",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_173",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_174",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_175",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_176",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_177",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_178",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_179",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_180",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_181",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_182",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_183",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_184",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_185",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_186",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_187",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_188",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_189",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_190",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_191",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_192",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_193",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_194",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_195",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_196",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_197",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_198",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_199",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_200",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_201",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_202",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_203",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_204",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_205",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_206",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_207",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_208",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_209",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_210",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_211",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_212",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_213",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_214",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_215",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_216",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_223",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_224",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_225",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_226",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_227",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_228",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_229",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_230",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_231",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_232",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_235",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_236",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_237",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_239",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_240",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_241",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_242",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_243",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_244",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_245",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_246",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_247",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_248",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_249",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_250",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_254",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_255",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_256",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_259",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_260",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_261",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_262",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_263",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_264",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_265",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_266",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_267",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_268",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_269",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_270",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_271",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_277",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_284",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_286",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_287",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_288",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_289",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_290",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_291",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_292",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_293",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_294",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_295",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_296",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
     "item": "glasses_m_prop_1_2",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -18681,6 +22845,954 @@ const items = [
     "item": "glasses_m_prop_1_68",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_30",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_31",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_32",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_33",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_34",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_35",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_36",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_37",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_38",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_39",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_40",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_41",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_42",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_43",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_44",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_45",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_46",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_47",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_48",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_49",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_50",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_51",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_52",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_54",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_55",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_56",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_57",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_58",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_59",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_60",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_61",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_62",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_63",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_64",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_65",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_69",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_74",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_75",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_11",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_12",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_13",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_14",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_15",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_16",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_17",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_18",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_19",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_20",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_21",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_22",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_23",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_24",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_25",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_26",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_27",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_0",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_1",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_2",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_3",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_4",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_5",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_6",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_7",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_8",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_9",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_10",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_11",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_12",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_13",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_14",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_15",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_16",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_17",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_18",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_19",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_20",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_21",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_22",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_23",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_24",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_25",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_26",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_27",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_28",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_29",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_30",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_31",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_32",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_34",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_35",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_36",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_37",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_38",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_39",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_40",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_41",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_42",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_43",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_44",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_45",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_46",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_47",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_48",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_49",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_50",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_51",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_52",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_53",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_54",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_0",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_1",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_2",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_3",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_4",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_5",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_6",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_7",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_8",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_9",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_10",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_11",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_0",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_1",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_2",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_3",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_4",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_5",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_6",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_7",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_8",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_9",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_10",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_11",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_12",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_0",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_1",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_2",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_3",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_4",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_5",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_6",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_7",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_8",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_9",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_10",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_11",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_12",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_13",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_14",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "rare"
   },
   {
@@ -21642,6 +26754,678 @@ const items = [
     "itemType": "mythical"
   },
   {
+    "item": "undershirt_f_8_526",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_527",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_528",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_529",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_530",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_531",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_532",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_533",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_534",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_535",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_536",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_537",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_538",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_539",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_540",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_541",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_542",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_543",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_544",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_545",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_546",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_547",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_548",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_549",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_550",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_551",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_552",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_553",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_554",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_555",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_556",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_557",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_558",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_559",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_560",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_561",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_562",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_563",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_564",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_565",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_566",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_567",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_568",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_569",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_570",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_571",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_572",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_573",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_574",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_575",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_576",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_577",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_578",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_579",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_580",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_581",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_582",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_583",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_584",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_585",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_586",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_587",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_588",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_589",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_590",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_591",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_592",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_593",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_594",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_595",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_596",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_597",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_598",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_599",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_600",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_601",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_602",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_603",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_604",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_605",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_606",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_607",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_608",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_609",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_610",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_611",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_612",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_613",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_614",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_615",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_616",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_617",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_618",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_619",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_620",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_621",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_622",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_623",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_624",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_625",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_626",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_627",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_628",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_629",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_630",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_631",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_632",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_633",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_634",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_635",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_636",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_637",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
     "item": "shoes_m_6_241",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -22254,6 +28038,780 @@ const items = [
     "itemType": "mythical"
   },
   {
+    "item": "chain_m_7_134",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_135",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_136",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_137",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_138",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_139",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_140",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_141",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_142",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_143",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_147",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_148",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_149",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_152",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_153",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_154",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_155",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_156",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_157",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_158",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_159",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_160",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_161",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_162",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_164",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_169",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_176",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_177",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_178",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_298",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_299",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_300",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_301",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_302",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_303",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_304",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_305",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_308",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_309",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_310",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_313",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_314",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_315",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_316",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_317",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_318",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_319",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_320",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_321",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_322",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_323",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_324",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_325",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_326",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_327",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_328",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_329",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_367",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_368",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_369",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_370",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_371",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_372",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_373",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_374",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_375",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_376",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_377",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_378",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_379",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_380",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_381",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_382",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_383",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_384",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_385",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_386",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_387",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_388",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_389",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_390",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_391",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_392",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_393",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_394",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_395",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_396",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_397",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_398",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_399",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_400",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_401",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_402",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_403",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_404",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_406",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_407",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_408",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_409",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_410",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_411",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_412",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_413",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_414",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_415",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_416",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_417",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_418",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_419",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_420",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_421",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_422",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_423",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_424",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_425",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_426",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_427",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_428",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_429",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_430",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_431",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_432",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_433",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_434",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_435",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_436",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_437",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_438",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_439",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
     "item": "glasses_m_prop_1_69",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -22371,6 +28929,396 @@ const items = [
     "item": "glasses_m_prop_1_90",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_1",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_2",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_55",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_56",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_57",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_58",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_59",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_60",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_61",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_62",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_63",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_64",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_65",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_66",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_67",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_68",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_69",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_70",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_71",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_72",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_73",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_74",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_75",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_76",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_12",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_13",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_14",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_15",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_18",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_13",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_14",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_15",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_16",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_17",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_15",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_16",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_17",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_18",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_19",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_20",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "mythical"
   },
   {
@@ -23772,6 +30720,456 @@ const items = [
     "itemType": "common"
   },
   {
+    "item": "watch_m_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_1",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_2",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_0",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_1",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_2",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_3",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_4",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_5",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_6",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_7",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_8",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_9",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_10",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_11",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_12",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_13",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_14",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_15",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_0",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_1",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_2",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_3",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_4",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_5",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_6",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_7",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_8",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_9",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_0",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_1",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_2",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_3",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_4",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_5",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_6",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_7",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_8",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_9",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_0",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_1",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_2",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_3",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_4",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_5",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
     "item": "jacket_m_11_9",
     "label": "Áo nam",
     "category": "ao-nam",
@@ -30135,6 +37533,318 @@ const items = [
     "item": "glasses_m_prop_1_48",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_22",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_23",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_24",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_25",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_26",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_27",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_28",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_29",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_30",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_31",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_32",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_33",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_34",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_35",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_21",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_22",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_23",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_24",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_25",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_16",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_17",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_18",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_19",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_20",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_21",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_22",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_23",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_24",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_25",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_10",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_11",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_12",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_13",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_14",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_15",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_6",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_7",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_8",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_9",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_10",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_11",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_12",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_13",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_14",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_15",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_16",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "uncommon"
   },
   {
@@ -38454,6 +46164,1602 @@ const items = [
     "itemType": "rare"
   },
   {
+    "item": "undershirt_f_8_29",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_30",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_31",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_32",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_33",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_34",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_35",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_36",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_38",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_39",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_40",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_41",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_42",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_43",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_44",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_45",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_46",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_47",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_48",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_49",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_50",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_51",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_53",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_54",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_55",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_56",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_57",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_58",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_59",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_60",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_61",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_62",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_63",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_64",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_65",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_66",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_67",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_155",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_156",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_157",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_158",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_159",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_160",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_161",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_162",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_163",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_164",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_165",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_166",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_167",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_168",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_169",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_170",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_171",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_172",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_173",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_174",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_175",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_176",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_177",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_178",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_179",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_180",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_181",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_182",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_183",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_184",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_185",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_186",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_187",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_188",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_189",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_190",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_191",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_192",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_193",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_194",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_263",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_264",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_265",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_266",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_267",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_268",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_269",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_270",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_271",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_273",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_274",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_275",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_276",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_277",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_278",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_279",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_280",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_281",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_282",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_283",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_284",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_285",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_286",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_287",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_288",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_289",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_290",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_291",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_292",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_293",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_294",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_295",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_296",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_298",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_299",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_300",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_301",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_302",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_303",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_304",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_305",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_306",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_379",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_380",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_381",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_382",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_383",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_384",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_385",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_386",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_387",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_388",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_389",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_390",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_391",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_392",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_393",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_394",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_395",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_396",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_397",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_398",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_399",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_400",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_401",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_402",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_403",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_404",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_405",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_406",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_407",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_408",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_409",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_410",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_411",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_412",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_413",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_414",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_415",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_416",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_417",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_418",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_419",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_420",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_421",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_422",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_423",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_424",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_425",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_426",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_427",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_428",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_429",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_430",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_431",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_432",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_433",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_434",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_435",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_436",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_437",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_438",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_439",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_440",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_441",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_442",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_443",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_444",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_445",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_446",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_447",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_448",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_449",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_450",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_451",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_452",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_453",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_454",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_455",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_456",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_457",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_458",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_459",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_460",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_461",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_462",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_463",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_464",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_465",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_466",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_467",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_468",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_469",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_470",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_471",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_472",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_473",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_474",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_475",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_476",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_477",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_478",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_479",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_480",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_481",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_482",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_483",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_484",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_485",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_486",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_487",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_488",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_489",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_490",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_491",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_492",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_493",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_494",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_495",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_496",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_497",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_498",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_499",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_500",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_501",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_502",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_503",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_504",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_505",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_506",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_507",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_508",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_509",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_510",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_511",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_512",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_513",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_514",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_515",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_516",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_517",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_518",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_519",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_520",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_521",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_522",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_523",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_524",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_525",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
     "item": "shoes_m_6_1",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -40770,6 +50076,1812 @@ const items = [
     "itemType": "rare"
   },
   {
+    "item": "chain_m_7_10",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_11",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_12",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_16",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_17",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_18",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_19",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_20",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_21",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_22",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_23",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_24",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_25",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_26",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_27",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_28",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_29",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_30",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_32",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_33",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_34",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_35",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_36",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_37",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_40",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_41",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_42",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_43",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_44",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_45",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_46",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_47",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_48",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_49",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_50",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_51",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_52",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_53",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_83",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_84",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_85",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_86",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_87",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_88",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_89",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_90",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_91",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_92",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_108",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_109",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_110",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_111",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_112",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_114",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_115",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_116",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_117",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_118",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_119",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_120",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_121",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_122",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_128",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_129",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_130",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_132",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_133",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_1",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_2",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_4",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_5",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_6",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_7",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_9",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_10",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_11",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_12",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_13",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_15",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_16",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_17",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_18",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_19",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_20",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_21",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_24",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_25",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_26",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_27",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_28",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_29",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_30",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_31",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_32",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_33",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_34",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_35",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_36",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_37",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_38",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_39",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_40",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_62",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_63",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_64",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_65",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_66",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_67",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_68",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_69",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_70",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_71",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_80",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_81",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_82",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_83",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_84",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_85",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_87",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_88",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_89",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_90",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_91",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_92",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_94",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_95",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_96",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_97",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_98",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_99",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_100",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_101",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_102",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_103",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_104",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_105",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_106",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_107",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_108",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_109",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_110",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_111",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_112",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_113",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_114",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_115",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_116",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_117",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_118",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_119",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_120",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_121",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_122",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_123",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_124",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_125",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_126",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_127",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_128",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_129",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_130",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_131",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_132",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_133",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_134",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_135",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_136",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_137",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_138",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_139",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_140",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_141",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_142",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_143",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_144",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_145",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_146",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_147",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_148",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_149",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_150",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_151",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_152",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_153",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_154",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_155",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_156",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_157",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_158",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_159",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_160",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_161",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_162",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_163",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_164",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_165",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_166",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_167",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_168",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_169",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_170",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_171",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_172",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_173",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_174",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_175",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_176",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_177",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_178",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_179",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_180",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_181",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_182",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_183",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_184",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_185",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_186",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_187",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_188",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_189",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_190",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_191",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_192",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_193",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_194",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_195",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_196",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_197",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_198",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_199",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_200",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_201",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_202",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_203",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_204",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_205",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_206",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_207",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_208",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_209",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_210",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_211",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_212",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_213",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_214",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_215",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_216",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_223",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_224",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_225",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_226",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_227",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_228",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_229",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_230",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_231",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_232",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_235",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_236",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_237",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_239",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_240",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_241",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_242",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_243",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_244",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_245",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_246",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_247",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_248",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_249",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_250",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_254",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_255",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_256",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_259",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_260",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_261",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_262",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_263",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_264",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_265",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_266",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_267",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_268",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_269",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_270",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_271",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_277",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_284",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_286",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_287",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_288",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_289",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_290",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_291",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_292",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_293",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_294",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_295",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_296",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
     "item": "glasses_m_prop_1_2",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -41055,6 +52167,954 @@ const items = [
     "item": "glasses_m_prop_1_68",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_30",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_31",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_32",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_33",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_34",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_35",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_36",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_37",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_38",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_39",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_40",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_41",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_42",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_43",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_44",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_45",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_46",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_47",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_48",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_49",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_50",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_51",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_52",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_54",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_55",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_56",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_57",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_58",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_59",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_60",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_61",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_62",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_63",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_64",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_65",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_69",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_74",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_75",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_11",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_12",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_13",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_14",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_15",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_16",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_17",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_18",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_19",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_20",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_21",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_22",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_23",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_24",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_25",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_26",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_27",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_0",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_1",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_2",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_3",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_4",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_5",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_6",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_7",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_8",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_9",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_10",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_11",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_12",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_13",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_14",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_15",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_16",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_17",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_18",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_19",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_20",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_21",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_22",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_23",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_24",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_25",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_26",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_27",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_28",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_29",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_30",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_31",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_32",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_34",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_35",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_36",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_37",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_38",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_39",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_40",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_41",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_42",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_43",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_44",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_45",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_46",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_47",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_48",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_49",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_50",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_51",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_52",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_53",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_54",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_0",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_1",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_2",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_3",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_4",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_5",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_6",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_7",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_8",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_9",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_10",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_11",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_0",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_1",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_2",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_3",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_4",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_5",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_6",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_7",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_8",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_9",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_10",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_11",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_12",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_0",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_1",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_2",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_3",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_4",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_5",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_6",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_7",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_8",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_9",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_10",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_11",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_12",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_13",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_14",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "rare"
   },
   {
@@ -44016,6 +56076,678 @@ const items = [
     "itemType": "mythical"
   },
   {
+    "item": "undershirt_f_8_526",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_527",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_528",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_529",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_530",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_531",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_532",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_533",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_534",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_535",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_536",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_537",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_538",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_539",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_540",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_541",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_542",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_543",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_544",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_545",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_546",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_547",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_548",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_549",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_550",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_551",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_552",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_553",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_554",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_555",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_556",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_557",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_558",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_559",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_560",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_561",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_562",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_563",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_564",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_565",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_566",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_567",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_568",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_569",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_570",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_571",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_572",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_573",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_574",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_575",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_576",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_577",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_578",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_579",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_580",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_581",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_582",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_583",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_584",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_585",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_586",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_587",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_588",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_589",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_590",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_591",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_592",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_593",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_594",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_595",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_596",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_597",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_598",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_599",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_600",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_601",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_602",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_603",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_604",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_605",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_606",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_607",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_608",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_609",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_610",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_611",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_612",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_613",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_614",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_615",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_616",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_617",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_618",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_619",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_620",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_621",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_622",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_623",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_624",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_625",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_626",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_627",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_628",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_629",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_630",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_631",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_632",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_633",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_634",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_635",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_636",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_637",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
     "item": "shoes_m_6_241",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -44628,6 +57360,780 @@ const items = [
     "itemType": "mythical"
   },
   {
+    "item": "chain_m_7_134",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_135",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_136",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_137",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_138",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_139",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_140",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_141",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_142",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_143",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_147",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_148",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_149",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_152",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_153",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_154",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_155",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_156",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_157",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_158",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_159",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_160",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_161",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_162",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_164",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_169",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_176",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_177",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_178",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_298",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_299",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_300",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_301",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_302",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_303",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_304",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_305",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_308",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_309",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_310",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_313",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_314",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_315",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_316",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_317",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_318",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_319",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_320",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_321",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_322",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_323",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_324",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_325",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_326",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_327",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_328",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_329",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_367",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_368",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_369",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_370",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_371",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_372",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_373",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_374",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_375",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_376",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_377",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_378",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_379",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_380",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_381",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_382",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_383",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_384",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_385",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_386",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_387",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_388",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_389",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_390",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_391",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_392",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_393",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_394",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_395",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_396",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_397",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_398",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_399",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_400",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_401",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_402",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_403",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_404",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_406",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_407",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_408",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_409",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_410",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_411",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_412",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_413",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_414",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_415",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_416",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_417",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_418",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_419",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_420",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_421",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_422",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_423",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_424",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_425",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_426",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_427",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_428",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_429",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_430",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_431",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_432",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_433",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_434",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_435",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_436",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_437",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_438",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_439",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
     "item": "glasses_m_prop_1_69",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -44745,6 +58251,396 @@ const items = [
     "item": "glasses_m_prop_1_90",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_1",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_2",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_55",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_56",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_57",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_58",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_59",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_60",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_61",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_62",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_63",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_64",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_65",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_66",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_67",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_68",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_69",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_70",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_71",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_72",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_73",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_74",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_75",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_76",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_12",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_13",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_14",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_15",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_18",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_13",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_14",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_15",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_16",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_17",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_15",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_16",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_17",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_18",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_19",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_20",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "mythical"
   },
   {
@@ -45780,6 +59676,258 @@ const items = [
     "itemType": "legendary"
   },
   {
+    "item": "undershirt_f_8_638",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_639",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_640",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_641",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_642",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_643",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_644",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_645",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_646",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_647",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_648",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_649",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_650",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_651",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_652",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_653",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_654",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_655",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_656",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_657",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_658",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_659",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_660",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_661",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_662",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_663",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_664",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_665",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_666",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_667",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_668",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_669",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_670",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_671",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_672",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_673",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_674",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_675",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_676",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_677",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_678",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_679",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
     "item": "shoes_m_6_281",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -45996,6 +60144,288 @@ const items = [
     "itemType": "legendary"
   },
   {
+    "item": "chain_m_7_179",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_180",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_181",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_182",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_183",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_184",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_185",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_186",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_187",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_188",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_330",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_331",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_332",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_333",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_334",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_335",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_336",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_337",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_338",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_339",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_340",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_341",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_342",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_343",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_344",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_345",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_346",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_347",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_348",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_349",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_350",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_351",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_352",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_353",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_354",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_355",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_356",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_357",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_358",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_359",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_360",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_361",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_362",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_363",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_364",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_365",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_366",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
     "item": "glasses_m_prop_1_12",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -46035,6 +60465,144 @@ const items = [
     "item": "glasses_m_prop_1_89",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_66",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_67",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_68",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_70",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_71",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_72",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_73",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_f_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_f_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_77",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_78",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_79",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_80",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_81",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_82",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_83",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_84",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_f_prop_2_16",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_f_prop_2_17",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_m_prop_7_18",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_m_prop_7_19",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_f_prop_7_21",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_f_prop_7_22",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "legendary"
   },
   {
@@ -47433,6 +62001,456 @@ const items = [
     "item": "glasses_m_prop_1_30",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_1",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_m_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_2",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "watch_f_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_0",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_1",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_2",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_3",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_4",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_5",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_6",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_7",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_8",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_9",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_10",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_11",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_12",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_13",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_14",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_m_prop_2_15",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_0",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_1",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_2",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_3",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_4",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_5",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_6",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_7",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_8",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "earrings_f_prop_2_9",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_0",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_1",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_2",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_3",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_4",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_5",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_6",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_7",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_8",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_f_prop_7_9",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_0",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_1",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_2",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_3",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_4",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "common"
+  },
+  {
+    "item": "bracelet_m_prop_7_5",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
     "itemType": "common"
   },
   {
@@ -53799,6 +68817,318 @@ const items = [
     "item": "glasses_m_prop_1_48",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_22",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_23",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_24",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_25",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_26",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_27",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_28",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_29",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_30",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_31",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_32",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_33",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_34",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_m_prop_6_35",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_21",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_22",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_23",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_24",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "watch_f_prop_6_25",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_16",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_17",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_18",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_19",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_20",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_21",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_22",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_23",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_24",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_m_prop_2_25",
+    "label": "Bông tai nam",
+    "category": "bongtai-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_10",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_11",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_12",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_13",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_14",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "earrings_f_prop_2_15",
+    "label": "Bông tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_6",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_7",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_8",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_m_prop_7_9",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_10",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_11",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_12",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_13",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_14",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_15",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "uncommon"
+  },
+  {
+    "item": "bracelet_f_prop_7_16",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "uncommon"
   },
   {
@@ -62118,6 +77448,1602 @@ const items = [
     "itemType": "rare"
   },
   {
+    "item": "undershirt_f_8_29",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_30",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_31",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_32",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_33",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_34",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_35",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_36",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_38",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_39",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_40",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_41",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_42",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_43",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_44",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_45",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_46",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_47",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_48",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_49",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_50",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_51",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_53",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_54",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_55",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_56",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_57",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_58",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_59",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_60",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_61",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_62",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_63",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_64",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_65",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_66",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_67",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_155",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_156",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_157",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_158",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_159",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_160",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_161",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_162",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_163",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_164",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_165",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_166",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_167",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_168",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_169",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_170",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_171",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_172",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_173",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_174",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_175",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_176",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_177",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_178",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_179",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_180",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_181",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_182",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_183",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_184",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_185",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_186",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_187",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_188",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_189",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_190",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_191",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_192",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_193",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_194",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_263",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_264",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_265",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_266",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_267",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_268",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_269",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_270",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_271",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_273",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_274",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_275",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_276",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_277",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_278",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_279",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_280",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_281",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_282",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_283",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_284",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_285",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_286",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_287",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_288",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_289",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_290",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_291",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_292",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_293",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_294",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_295",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_296",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_298",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_299",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_300",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_301",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_302",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_303",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_304",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_305",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_306",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_379",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_380",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_381",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_382",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_383",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_384",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_385",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_386",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_387",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_388",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_389",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_390",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_391",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_392",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_393",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_394",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_395",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_396",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_397",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_398",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_399",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_400",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_401",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_402",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_403",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_404",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_405",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_406",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_407",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_408",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_409",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_410",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_411",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_412",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_413",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_414",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_415",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_416",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_417",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_418",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_419",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_420",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_421",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_422",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_423",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_424",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_425",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_426",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_427",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_428",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_429",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_430",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_431",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_432",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_433",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_434",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_435",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_436",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_437",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_438",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_439",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_440",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_441",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_442",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_443",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_444",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_445",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_446",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_447",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_448",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_449",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_450",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_451",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_452",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_453",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_454",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_455",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_456",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_457",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_458",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_459",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_460",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_461",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_462",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_463",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_464",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_465",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_466",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_467",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_468",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_469",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_470",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_471",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_472",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_473",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_474",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_475",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_476",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_477",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_478",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_479",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_480",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_481",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_482",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_483",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_484",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_485",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_486",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_487",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_488",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_489",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_490",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_491",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_492",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_493",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_494",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_495",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_496",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_497",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_498",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_499",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_500",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_501",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_502",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_503",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_504",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_505",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_506",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_507",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_508",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_509",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_510",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_511",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_512",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_513",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_514",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_515",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_516",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_517",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_518",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_519",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_520",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_521",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_522",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_523",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_524",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "undershirt_f_8_525",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "rare"
+  },
+  {
     "item": "shoes_m_6_1",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -64434,6 +81360,1812 @@ const items = [
     "itemType": "rare"
   },
   {
+    "item": "chain_m_7_10",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_11",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_12",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_16",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_17",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_18",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_19",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_20",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_21",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_22",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_23",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_24",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_25",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_26",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_27",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_28",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_29",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_30",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_32",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_33",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_34",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_35",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_36",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_37",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_40",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_41",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_42",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_43",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_44",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_45",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_46",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_47",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_48",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_49",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_50",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_51",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_52",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_53",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_83",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_84",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_85",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_86",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_87",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_88",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_89",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_90",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_91",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_92",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_108",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_109",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_110",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_111",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_112",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_114",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_115",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_116",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_117",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_118",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_119",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_120",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_121",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_122",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_128",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_129",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_130",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_132",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_m_7_133",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_1",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_2",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_4",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_5",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_6",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_7",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_9",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_10",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_11",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_12",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_13",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_15",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_16",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_17",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_18",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_19",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_20",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_21",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_24",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_25",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_26",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_27",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_28",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_29",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_30",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_31",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_32",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_33",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_34",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_35",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_36",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_37",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_38",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_39",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_40",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_62",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_63",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_64",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_65",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_66",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_67",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_68",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_69",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_70",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_71",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_80",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_81",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_82",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_83",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_84",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_85",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_87",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_88",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_89",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_90",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_91",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_92",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_94",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_95",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_96",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_97",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_98",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_99",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_100",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_101",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_102",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_103",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_104",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_105",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_106",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_107",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_108",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_109",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_110",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_111",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_112",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_113",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_114",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_115",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_116",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_117",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_118",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_119",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_120",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_121",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_122",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_123",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_124",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_125",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_126",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_127",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_128",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_129",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_130",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_131",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_132",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_133",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_134",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_135",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_136",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_137",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_138",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_139",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_140",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_141",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_142",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_143",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_144",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_145",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_146",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_147",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_148",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_149",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_150",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_151",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_152",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_153",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_154",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_155",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_156",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_157",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_158",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_159",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_160",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_161",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_162",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_163",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_164",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_165",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_166",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_167",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_168",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_169",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_170",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_171",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_172",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_173",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_174",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_175",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_176",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_177",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_178",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_179",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_180",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_181",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_182",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_183",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_184",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_185",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_186",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_187",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_188",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_189",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_190",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_191",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_192",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_193",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_194",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_195",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_196",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_197",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_198",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_199",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_200",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_201",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_202",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_203",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_204",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_205",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_206",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_207",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_208",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_209",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_210",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_211",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_212",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_213",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_214",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_215",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_216",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_223",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_224",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_225",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_226",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_227",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_228",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_229",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_230",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_231",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_232",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_235",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_236",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_237",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_239",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_240",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_241",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_242",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_243",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_244",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_245",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_246",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_247",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_248",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_249",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_250",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_254",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_255",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_256",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_259",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_260",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_261",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_262",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_263",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_264",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_265",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_266",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_267",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_268",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_269",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_270",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_271",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_277",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_284",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_286",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_287",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_288",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_289",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_290",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_291",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_292",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_293",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_294",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_295",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "chain_f_7_296",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "rare"
+  },
+  {
     "item": "glasses_m_prop_1_2",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -64719,6 +83451,954 @@ const items = [
     "item": "glasses_m_prop_1_68",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_21",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_30",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_31",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_32",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_33",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_34",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_35",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_36",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_37",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_38",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_39",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_40",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_41",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_42",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_43",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_44",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_45",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_46",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_47",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_48",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_49",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_50",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_51",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_52",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_54",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_55",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_56",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_57",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_58",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_59",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_60",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_61",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_62",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_63",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_64",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_65",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_69",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_74",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_m_prop_6_75",
+    "label": "Đồng hồ/vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_11",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_12",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_13",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_14",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_15",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_16",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_17",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_18",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_19",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_20",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_21",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_22",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_23",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_24",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_25",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_26",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "watch_f_prop_6_27",
+    "label": "Đồng hồ/vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_0",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_1",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_2",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_3",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_4",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_5",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_6",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_7",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_8",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_9",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_10",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_11",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_12",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_13",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_14",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_15",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_16",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_17",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_18",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_19",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_20",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_21",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_22",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_23",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_24",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_25",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_26",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_27",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_28",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_29",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_30",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_31",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_32",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_34",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_35",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_36",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_37",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_38",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_39",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_40",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_41",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_42",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_43",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_44",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_45",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_46",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_47",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_48",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_49",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_50",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_51",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_52",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_53",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_m_prop_2_54",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_0",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_1",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_2",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_3",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_4",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_5",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_6",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_7",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_8",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_9",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_10",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "earrings_f_prop_2_11",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_0",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_1",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_2",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_3",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_4",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_5",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_6",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_7",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_8",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_9",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_10",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_11",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_m_prop_7_12",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_0",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_1",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_2",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_3",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_4",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_5",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_6",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_7",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_8",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_9",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_10",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_11",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_12",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_13",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "rare"
+  },
+  {
+    "item": "bracelet_f_prop_7_14",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "rare"
   },
   {
@@ -67680,6 +87360,678 @@ const items = [
     "itemType": "mythical"
   },
   {
+    "item": "undershirt_f_8_526",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_527",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_528",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_529",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_530",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_531",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_532",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_533",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_534",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_535",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_536",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_537",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_538",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_539",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_540",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_541",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_542",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_543",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_544",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_545",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_546",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_547",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_548",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_549",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_550",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_551",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_552",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_553",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_554",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_555",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_556",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_557",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_558",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_559",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_560",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_561",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_562",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_563",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_564",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_565",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_566",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_567",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_568",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_569",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_570",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_571",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_572",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_573",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_574",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_575",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_576",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_577",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_578",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_579",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_580",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_581",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_582",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_583",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_584",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_585",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_586",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_587",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_588",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_589",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_590",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_591",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_592",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_593",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_594",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_595",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_596",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_597",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_598",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_599",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_600",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_601",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_602",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_603",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_604",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_605",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_606",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_607",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_608",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_609",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_610",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_611",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_612",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_613",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_614",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_615",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_616",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_617",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_618",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_619",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_620",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_621",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_622",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_623",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_624",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_625",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_626",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_627",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_628",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_629",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_630",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_631",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_632",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_633",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_634",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_635",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_636",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "undershirt_f_8_637",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "mythical"
+  },
+  {
     "item": "shoes_m_6_241",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -68292,6 +88644,780 @@ const items = [
     "itemType": "mythical"
   },
   {
+    "item": "chain_m_7_134",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_135",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_136",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_137",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_138",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_139",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_140",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_141",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_142",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_143",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_147",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_148",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_149",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_152",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_153",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_154",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_155",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_156",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_157",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_158",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_159",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_160",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_161",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_162",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_164",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_169",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_176",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_177",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_m_7_178",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_298",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_299",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_300",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_301",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_302",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_303",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_304",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_305",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_308",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_309",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_310",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_313",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_314",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_315",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_316",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_317",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_318",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_319",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_320",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_321",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_322",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_323",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_324",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_325",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_326",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_327",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_328",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_329",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_367",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_368",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_369",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_370",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_371",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_372",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_373",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_374",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_375",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_376",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_377",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_378",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_379",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_380",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_381",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_382",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_383",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_384",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_385",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_386",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_387",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_388",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_389",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_390",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_391",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_392",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_393",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_394",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_395",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_396",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_397",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_398",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_399",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_400",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_401",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_402",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_403",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_404",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_406",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_407",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_408",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_409",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_410",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_411",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_412",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_413",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_414",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_415",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_416",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_417",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_418",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_419",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_420",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_421",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_422",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_423",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_424",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_425",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_426",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_427",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_428",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_429",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_430",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_431",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_432",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_433",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_434",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_435",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_436",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_437",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_438",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "chain_f_7_439",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "mythical"
+  },
+  {
     "item": "glasses_m_prop_1_69",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -68409,6 +89535,396 @@ const items = [
     "item": "glasses_m_prop_1_90",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_0",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_1",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_11",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_12",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_13",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_14",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_15",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_16",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_17",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_18",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_19",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_m_prop_6_20",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_2",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_3",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_4",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_7",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_8",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_9",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "watch_f_prop_6_10",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_55",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_56",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_57",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_58",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_59",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_60",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_61",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_62",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_63",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_64",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_65",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_66",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_67",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_68",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_69",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_70",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_71",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_72",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_73",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_74",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_75",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_m_prop_2_76",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_12",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_13",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_14",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_15",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "earrings_f_prop_2_18",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_13",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_14",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_15",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_16",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_m_prop_7_17",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_15",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_16",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_17",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_18",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_19",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "mythical"
+  },
+  {
+    "item": "bracelet_f_prop_7_20",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "mythical"
   },
   {
@@ -69204,6 +90720,258 @@ const items = [
     "itemType": "legendary"
   },
   {
+    "item": "undershirt_f_8_638",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_639",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_640",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_641",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_642",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_643",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_644",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_645",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_646",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_647",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_648",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_649",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_650",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_651",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_652",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_653",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_654",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_655",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_656",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_657",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_658",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_659",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_660",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_661",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_662",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_663",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_664",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_665",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_666",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_667",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_668",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_669",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_670",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_671",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_672",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_673",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_674",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_675",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_676",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_677",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_678",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "undershirt_f_8_679",
+    "label": "Quần nữ",
+    "category": "quantrong-nu",
+    "itemType": "legendary"
+  },
+  {
     "item": "shoes_m_6_281",
     "label": "Giày dép nam",
     "category": "giay-nam",
@@ -69420,6 +91188,288 @@ const items = [
     "itemType": "legendary"
   },
   {
+    "item": "chain_m_7_179",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_180",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_181",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_182",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_183",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_184",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_185",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_186",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_187",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_m_7_188",
+    "label": "Cổ nam",
+    "category": "co-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_330",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_331",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_332",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_333",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_334",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_335",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_336",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_337",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_338",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_339",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_340",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_341",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_342",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_343",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_344",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_345",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_346",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_347",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_348",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_349",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_350",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_351",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_352",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_353",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_354",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_355",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_356",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_357",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_358",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_359",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_360",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_361",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_362",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_363",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_364",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_365",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "chain_f_7_366",
+    "label": "Cổ nữ",
+    "category": "co-nu",
+    "itemType": "legendary"
+  },
+  {
     "item": "glasses_m_prop_1_12",
     "label": "Kính nam",
     "category": "kinh-nam",
@@ -69459,6 +91509,144 @@ const items = [
     "item": "glasses_m_prop_1_89",
     "label": "Kính nam",
     "category": "kinh-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_66",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_67",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_68",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_70",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_71",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_72",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_m_prop_6_73",
+    "label": "Đồng hồ/Vòng tay nam",
+    "category": "dongho-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_f_prop_6_5",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "watch_f_prop_6_6",
+    "label": "Đồng hồ/Vòng tay nữ",
+    "category": "dongho-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_77",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_78",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_79",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_80",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_81",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_82",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_83",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_m_prop_2_84",
+    "label": "Tai nam",
+    "category": "bongtai-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_f_prop_2_16",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "earrings_f_prop_2_17",
+    "label": "Tai nữ",
+    "category": "bongtai-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_m_prop_7_18",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_m_prop_7_19",
+    "label": "Vòng tay nam",
+    "category": "vongtay-nam",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_f_prop_7_21",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
+    "itemType": "legendary"
+  },
+  {
+    "item": "bracelet_f_prop_7_22",
+    "label": "Vòng tay nữ",
+    "category": "vongtay-nu",
     "itemType": "legendary"
   },
   {

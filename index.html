@@ -152,12 +152,52 @@
             color: #666;
             font-size: 0.9em;
         }
+        
+        /* Filter section styling */
+        .filter-section {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        
+        .filter-section .form-label {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+        
+        .filter-section .form-select {
+            border: 2px solid #e9ecef;
+            border-radius: 6px;
+            padding: 8px 12px;
+            transition: border-color 0.3s ease;
+        }
+        
+        .filter-section .form-select:focus {
+            border-color: #3498db;
+            box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+        }
+        
+        .filter-section .btn {
+            width: 100%;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .filter-section .btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
     </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="#">FreeCity Items</a>
+            <a class="navbar-brand" href="index.html">FreeCity Items</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -191,6 +231,33 @@
                         <a class="nav-link" href="#giay-nu">Giày Nữ</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="#dongho-nam">Đồng Hồ Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#dongho-nu">Đồng Hồ Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#bongtai-nam">Bông Tai Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#bongtai-nu">Bông Tai Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#vongtay-nam">Vòng Tay Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#vongtay-nu">Vòng Tay Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#co-nam">Vòng Cổ Nam</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#co-nu">Vòng Cổ Nữ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#quantrong-nu">Quần Trong Nữ</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="#mu-nam">Mũ Nam</a>
                     </li>
                     <li class="nav-item">
@@ -206,6 +273,55 @@
             </div>
         </div>
     </nav>
+
+    <!-- Filter Section -->
+    <div class="container mb-4">
+        <div class="filter-section">
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="categoryFilter" class="form-label">Lọc theo Danh mục:</label>
+                    <select id="categoryFilter" class="form-select">
+                        <option value="">Tất cả danh mục</option>
+                        <option value="ao-nam">Áo Nam</option>
+                        <option value="ao-nu">Áo Nữ</option>
+                        <option value="quan-nam">Quần Nam</option>
+                        <option value="quan-nu">Quần Nữ</option>
+                        <option value="giay-nam">Giày Nam</option>
+                        <option value="giay-nu">Giày Nữ</option>
+                        <option value="mu-nam">Mũ Nam</option>
+                        <option value="mu-nu">Mũ Nữ</option>
+                        <option value="kinh-nam">Kính Nam</option>
+                        <option value="dongho-nam">Đồng Hồ Nam</option>
+                        <option value="dongho-nu">Đồng Hồ Nữ</option>
+                        <option value="bongtai-nam">Bông Tai Nam</option>
+                        <option value="bongtai-nu">Bông Tai Nữ</option>
+                        <option value="vongtay-nam">Vòng Tay Nam</option>
+                        <option value="vongtay-nu">Vòng Tay Nữ</option>
+                        <option value="co-nam">Vòng Cổ Nam</option>
+                        <option value="co-nu">Vòng Cổ Nữ</option>
+                        <option value="quantrong-nu">Quần Trong Nữ</option>
+                        <option value="bag">Bag</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="itemTypeFilter" class="form-label">Lọc theo Loại:</label>
+                    <select id="itemTypeFilter" class="form-select">
+                        <option value="">Tất cả loại</option>
+                        <option value="common">Common</option>
+                        <option value="uncommon">Uncommon</option>
+                        <option value="rare">Rare</option>
+                        <option value="epic">Epic</option>
+                        <option value="legendary">Legendary</option>
+                        <option value="mythical">Mythical</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">&nbsp;</label>
+                    <button id="clearFilters" class="btn btn-secondary d-block">Xóa bộ lọc</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="container">
         <div id="ao-nam" class="category-section">
@@ -251,6 +367,51 @@
         <div id="kinh-nam" class="category-section">
             <h2 class="category-title">Kính Nam</h2>
             <div class="row" id="kinh-nam-items"></div>
+        </div>
+
+        <div id="dongho-nam" class="category-section">
+            <h2 class="category-title">Đồng Hồ Nam</h2>
+            <div class="row" id="dongho-nam-items"></div>
+        </div>
+
+        <div id="dongho-nu" class="category-section">
+            <h2 class="category-title">Đồng Hồ Nữ</h2>
+            <div class="row" id="dongho-nu-items"></div>
+        </div>
+
+        <div id="bongtai-nam" class="category-section">
+            <h2 class="category-title">Bông Tai Nam</h2>
+            <div class="row" id="bongtai-nam-items"></div>
+        </div>
+
+        <div id="bongtai-nu" class="category-section">
+            <h2 class="category-title">Bông Tai Nữ</h2>
+            <div class="row" id="bongtai-nu-items"></div>
+        </div>
+
+        <div id="vongtay-nam" class="category-section">
+            <h2 class="category-title">Vòng Tay Nam</h2>
+            <div class="row" id="vongtay-nam-items"></div>
+        </div>
+
+        <div id="vongtay-nu" class="category-section">
+            <h2 class="category-title">Vòng Tay Nữ</h2>
+            <div class="row" id="vongtay-nu-items"></div>
+        </div>
+
+        <div id="co-nam" class="category-section">
+            <h2 class="category-title">Vòng Cổ Nam</h2>
+            <div class="row" id="co-nam-items"></div>
+        </div>
+
+        <div id="co-nu" class="category-section">
+            <h2 class="category-title">Vòng Cổ Nữ</h2>
+            <div class="row" id="co-nu-items"></div>
+        </div>
+
+        <div id="quantrong-nu" class="category-section">
+            <h2 class="category-title">Quần Trong Nữ</h2>
+            <div class="row" id="quantrong-nu-items"></div>
         </div>
 
         <div id="bag" class="category-section">
@@ -379,12 +540,122 @@
             }
         }
 
+        // Filtering functionality
+        function applyFilters() {
+            const categoryFilter = document.getElementById('categoryFilter').value;
+            const itemTypeFilter = document.getElementById('itemTypeFilter').value;
+            
+            console.log('Applying filters - Category:', categoryFilter, 'ItemType:', itemTypeFilter);
+            
+            // If no filters are applied, show all items
+            if (!categoryFilter && !itemTypeFilter) {
+                showAllItems();
+                return;
+            }
+            
+            // Get all category sections
+            const categorySections = document.querySelectorAll('.category-section');
+            console.log('Found', categorySections.length, 'category sections');
+            
+            categorySections.forEach(section => {
+                const sectionId = section.id;
+                const sectionItems = section.querySelectorAll('.item-card');
+                let hasVisibleItems = false;
+                
+                // Check if this section should be visible based on category filter
+                const shouldShowSection = !categoryFilter || categoryFilter === sectionId;
+                
+                if (shouldShowSection) {
+                    // Filter individual items within this section
+                    sectionItems.forEach(itemCard => {
+                        // Get item type from the card's classes
+                        let itemType = 'common';
+                        if (itemCard.classList.contains('uncommon')) itemType = 'uncommon';
+                        else if (itemCard.classList.contains('rare')) itemType = 'rare';
+                        else if (itemCard.classList.contains('epic')) itemType = 'epic';
+                        else if (itemCard.classList.contains('legendary')) itemType = 'legendary';
+                        else if (itemCard.classList.contains('mythical')) itemType = 'mythical';
+                        
+                        const shouldShowItem = !itemTypeFilter || itemTypeFilter === itemType;
+                        
+                        if (shouldShowItem) {
+                            itemCard.parentElement.style.display = 'block';
+                            hasVisibleItems = true;
+                        } else {
+                            itemCard.parentElement.style.display = 'none';
+                        }
+                    });
+                    
+                    // Show/hide the entire section based on whether it has visible items
+                    section.style.display = hasVisibleItems ? 'block' : 'none';
+                } else {
+                    // Hide the entire section if category filter doesn't match
+                    section.style.display = 'none';
+                }
+            });
+            
+            console.log('Filtering complete');
+        }
+
+        // Clear all filters
+        function clearFilters() {
+            document.getElementById('categoryFilter').value = '';
+            document.getElementById('itemTypeFilter').value = '';
+            showAllItems();
+        }
+
+        // Show all items (used when clearing filters)
+        function showAllItems() {
+            console.log('Showing all items');
+            const categorySections = document.querySelectorAll('.category-section');
+            categorySections.forEach(section => {
+                section.style.display = 'block';
+                const itemCards = section.querySelectorAll('.item-card');
+                itemCards.forEach(card => {
+                    card.parentElement.style.display = 'block';
+                });
+            });
+        }
+
+        // Add event listeners for the filter dropdowns
+        function attachFilterListeners() {
+            const categoryFilter = document.getElementById('categoryFilter');
+            const itemTypeFilter = document.getElementById('itemTypeFilter');
+            const clearFiltersBtn = document.getElementById('clearFilters');
+            
+            if (categoryFilter) {
+                categoryFilter.addEventListener('change', function() {
+                    console.log('Category filter changed to:', this.value);
+                    applyFilters();
+                });
+            }
+            
+            if (itemTypeFilter) {
+                itemTypeFilter.addEventListener('change', function() {
+                    console.log('Item type filter changed to:', this.value);
+                    applyFilters();
+                });
+            }
+
+            if (clearFiltersBtn) {
+                clearFiltersBtn.addEventListener('click', function() {
+                    console.log('Clear filters clicked');
+                    clearFilters();
+                });
+            }
+        }
+
         // Initialize the display when the page loads
         window.onload = async function() {
             try {
                 await loadItems();
                 displayItems();
-                displayMarketItems();
+                
+                // Attach event listeners after items are loaded
+                attachFilterListeners();
+                
+                // Show all items initially
+                showAllItems();
             } catch (error) {
                 console.error('Error loading items:', error);
                 document.body.innerHTML += '<div class="alert alert-danger m-3">Failed to load items data. Please make sure items.js exists and is accessible.</div>';

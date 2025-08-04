@@ -33,6 +33,24 @@ while ((match = itemRegex.exec(configContent)) !== null) {
         category = 'mu-nu';
     } else if (item.startsWith('glasses_m_')) {
         category = 'kinh-nam';
+    } else if (item.startsWith('watch_m_')) {
+        category = 'dongho-nam';
+    } else if (item.startsWith('watch_f_')) {
+        category = 'dongho-nu';
+    } else if (item.startsWith('earrings_m_')) {
+        category = 'bongtai-nam';
+    } else if (item.startsWith('earrings_f_')) {
+        category = 'bongtai-nu';
+    } else if (item.startsWith('bracelet_m_')) {
+        category = 'vongtay-nam';
+    } else if (item.startsWith('bracelet_f_')) {
+        category = 'vongtay-nu';
+    } else if (item.startsWith('chain_m_')) {
+        category = 'co-nam';
+    } else if (item.startsWith('chain_f_')) {
+        category = 'co-nu';
+    } else if (item.startsWith('undershirt_f_')) {
+        category = 'quantrong-nu';
     }
     
     if (category) {
